@@ -60,3 +60,12 @@ footer {
   width: 100%;
   bottom: 0;
 }
+
+#contact a {
+  color: #333;
+  text-decoration: underline;
+}
+
+#contact a:hover {
+  color: #555;
+}
